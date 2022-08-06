@@ -6,7 +6,6 @@ owl.owlCarousel({
     startPosition:1,
     items:3,
 
-    
 });
 // Go to the previous item
 $('.slider__btn--prev').click(function() {
