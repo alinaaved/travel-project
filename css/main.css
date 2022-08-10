@@ -110,10 +110,6 @@ body {
     font-weight: 500;
 }
 
-.nav__list--footer a{
-
-}
-
 .nav__list a{
     position: relative;
 }
@@ -451,8 +447,6 @@ body {
     height: 83px;
 
     content: "";
-}{
-    
 }
 
 .cta__plate::before{
